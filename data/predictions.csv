@@ -1,0 +1,11 @@
+id,text,gold,ambiguous,rule,positive_score,negative_score,rule_correct,llm,llm_correct
+01,「二度と行かない」と友達が言っていた店へ。たしかに席は狭いし待ち時間も長い。なのに帰り道では来月の予約をいつにするか考えていた。今度はあの友達も誘ってみる。,positive,true,negative,0,0,False,positive,True
+02,届いた日に星五つを付けたイヤホン。音も見た目も今でも気に入っている。ただ通勤一回で接続が三度切れるのには慣れたくない。星を付けるのは一週間待てばよかった。,negative,true,negative,0,0,True,negative,True
+03,この掃除機に不満がないわけじゃない。重いし安くもなかった。でも壊れたら別のを買えばいいとは思えないくらいには毎日助けられている。人には勧めにくいけど私は手放さない。,positive,true,negative,0,1,False,positive,True
+04,新作のプリンはまずくないし値段も普通。食べ終わって「もう十分かな」と言ったら母が次の分まで買ってきてくれた。気持ちはうれしいので肝心のプリンの話はしないでおいた。,negative,true,positive,1,0,False,positive,False
+05,この絵本を買って失敗だったのは一冊しか買わなかったこと。寝る前に同じ話を三回読むのは正直しんどい。それでも最後のページで二人そろって笑うので今日も省略できなかった。,positive,true,negative,0,0,False,positive,True
+06,通知を見逃さなくなるという更新を入れた。おかげで一日中スマホを見る習慣がついて肝心の家族からの連絡だけ広告に埋もれていた。ずいぶん生活を豊かにしてくれるアプリだこと。,negative,true,negative,0,0,True,negative,True
+07,前の美容院に戻ろうと思って新しい店に行った。これで合わなければ迷わず戻れるから。ところが帰宅して鏡を見るたびに予約履歴を開いてしまう。前の店には悪いけど次もここかな。,positive,true,negative,0,1,False,positive,True
+08,「悪くないね」と言ったのは本当。あの値段を聞くまでは。ごちそうしてくれた人の前で訂正する話でもないので最後まで笑って食べた。自分で払う次の集まりは別の店を探している。,negative,true,negative,0,1,True,negative,True
+09,修理から戻った時計を見ても買った日のようには喜べなかった。父の傷だらけの形見をきれいにされるのが怖かったから。でも傷を残して針だけがまた動いている。余計なことをしない職人さんでよかった。,positive,true,positive,1,0,True,positive,True
+10,映画の終わりで隣の人が泣いていて私もつられて涙が出た。感動したのかと聞かれてうなずいたけど本当は付き合ってくれた人に二時間返してとは言えなかっただけ。帰りのご飯の話にすぐ切り替えた。,negative,true,negative,0,0,True,negative,True

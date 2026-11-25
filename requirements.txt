@@ -1,0 +1,2 @@
+# Verification environment: Python 3.11.9 / Windows.
+scikit-learn==1.9.1

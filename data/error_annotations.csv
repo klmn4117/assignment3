@@ -1,0 +1,7 @@
+method,id,category,explanation
+rule,01,implicit_positive,肯定語・否定語とも0点でnegativeになったが再訪と友人を誘う意向が投稿者の肯定評価を示す。
+rule,03,negative_word_scope,不満の1点だけを拾ったが欠点の言及と投稿全体の評価は同じではなく最後の継続利用意向は肯定的である。
+rule,04,target_ambiguity,うれしいは母の気遣いへの感情だがプリンへの評価と分離できずpositiveになった。正解の解釈自体にも曖昧さがある。
+rule,05,implicit_positive,肯定語・否定語とも0点でnegativeになったが親子で笑い繰り返し読む行動が絵本への肯定評価を示す。
+rule,07,negative_word_scope,悪は前の店への気兼ねに使われているが新しい店への否定として数えられ再訪意向を反映できなかった。
+llm,04,target_ambiguity,母への感謝とプリンへの消極的評価が同居する。positiveを選んだ理由は記録されたラベルだけからは断定できず正解解釈の曖昧さも不一致の要因である。
